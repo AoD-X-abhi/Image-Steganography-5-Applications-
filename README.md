@@ -28,14 +28,15 @@ This repository contains a Python-based Image Steganography project that impleme
 
 Ensure the following libraries are installed:
 
-| Library  | Description | Logo |
-|----------|-------------|------|
-| `os`     | Standard Python library for operating system interactions. | ![os](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Python-logo-notext.svg/48px-Python-logo-notext.svg.png) |
-| `numpy`  | Library for numerical computations in Python. | ![NumPy](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/120px-NumPy_logo_2020.svg.png) |
-| `wave`   | Standard Python library for reading and writing WAV files. | ![wave](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Python-logo-notext.svg/48px-Python-logo-notext.svg.png) |
-| `opencv-python (cv2)` | Library for image processing and computer vision. | ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text.png) |
-| `Pillow (PIL)` | Library for image handling in Python. | ![Pillow](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Pillow_logo.svg/96px-Pillow_logo.svg.png) |
+| Library                  | Description                                      | Logo |
+|--------------------------|--------------------------------------------------|------|
+| `os`                     | Standard Python library for operating system interactions. | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
+| `numpy`                  | Library for numerical computations in Python.    | ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg) |
+| `wave`                   | Standard Python library for reading and writing WAV files. | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
+| `opencv-python (cv2)`    | Library for image processing and computer vision. | ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text.png) |
+| `Pillow (PIL)`           | Library for image handling in Python.           | ![Pillow](https://upload.wikimedia.org/wikipedia/commons/e/e0/Pillow_logo.svg) |
 
 You can install them via:
 ```bash
 pip install numpy opencv-python pillow
+
