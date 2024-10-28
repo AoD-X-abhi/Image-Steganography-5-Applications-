@@ -24,6 +24,9 @@ This repository contains a Python-based Image Steganography project that impleme
    - **Description**: Embeds audio data (e.g., `.wav` file) within an RGB image.
    - **Functionality**: Extracts audio wave data and encodes it within the RGB values of the cover image, creating a unique way to store audio data within an image.
 
+## ![Input Image](D:\Semester's Notes\Semester 1\Discrete mathematics\Project Code\Project Codes\Landscape.png)
+
+
 ## Prerequisites
 
 Ensure the following libraries are installed:
