@@ -30,11 +30,11 @@ Ensure the following libraries are installed:
 
 | Library                  | Description                                      | Logo |
 |--------------------------|--------------------------------------------------|------|
-| `os`                     | Standard Python library for operating system interactions. | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
-| `numpy`                  | Library for numerical computations in Python.    | ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg) |
-| `wave`                   | Standard Python library for reading and writing WAV files. | ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) |
-| `opencv-python (cv2)`    | Library for image processing and computer vision. | ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_logo_with_text.png) |
-| `Pillow (PIL)`           | Library for image handling in Python.           | ![Pillow](https://upload.wikimedia.org/wikipedia/commons/e/e0/Pillow_logo.svg) |
+| `os`                     | Standard Python library for operating system interactions. | Python 3.x ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| `numpy`                  | Library for numerical computations in Python.    | NumPy ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| `wave`                   | Standard Python library for reading and writing WAV files. | (Standard Python library for WAV files) |
+| `opencv-python (cv2)`    | Library for image processing and computer vision. | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
+| `Pillow (PIL)`           | Library for image handling in Python.           | ![Pillow](https://img.shields.io/badge/Pillow-0066A1?style=for-the-badge&logo=python&logoColor=white) |
 
 You can install them via:
 ```bash
